@@ -19,4 +19,3 @@ function whileLoop (n) {
   while([n--]) {
     [n===0, console.log('done')]
   }
-}
