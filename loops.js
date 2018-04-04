@@ -14,6 +14,7 @@ function forLoop() {
   }
 }
 
-function whileLoop (5; i--) {
-  
+var n = 5
+function whileLoop (n) {
+  while(n--) 
 }
