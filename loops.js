@@ -13,3 +13,5 @@ function forLoop() {
       return makeArray
   }
 }
+
+function whileLoop ()
