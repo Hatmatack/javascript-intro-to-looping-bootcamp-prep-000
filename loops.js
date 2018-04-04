@@ -17,7 +17,9 @@ function forLoop() {
 var n = 5
 function whileLoop(n) {
   while([n--]) {
-    [n===0]
-    return "done"
+   if ([n===0]) {
+      console.log ('done')
+    }
+    return whileLoop
   }
 }
